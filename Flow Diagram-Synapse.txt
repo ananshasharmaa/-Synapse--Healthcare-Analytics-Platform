@@ -1,0 +1,45 @@
+Hospital Systems
+--------------------
+Admissions
+Patients
+Ambulance
+Beds
+Departments
+Doctors
+
+        │
+        ▼
+
+SQL Server (Raw Database)
+
+        │
+ Python ETL (Pandas)
+ Cleaning
+ Validation
+ Transformation
+
+        │
+
+Snowflake Data Warehouse
+
+        │
+ SQL Views
+ Star Schema
+
+        │
+
+Power BI
+
+KPIs
+Patient Flow
+Emergency
+Occupancy
+Operational Dashboard
+
+        │
+
+LLM API
+
+Natural Language
+Insights
+Executive Summary
